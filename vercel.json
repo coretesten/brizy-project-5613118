@@ -1,0 +1,1 @@
+{"routes":[{"src":"/blog","dest":"/blog.html"},{"src":"/","dest":"/index.html"},{"src":"/impressum","dest":"/impressum.html"},{"src":"/datenschutz","dest":"/datenschutz.html"}]}
